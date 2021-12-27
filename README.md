@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @alexchee-zy
-- 👀 I’m interested in data analytics and taught myself to be a data analyst.
-- 🌱 
+- 👋 Hi, I’m @alexchee-zy, a self-taught data analyst.
+- 👀 I’m interested in data analytics, particularly in using data to gain insights and solve business problem.
 - 💞️ I’m looking to collaborate on project related with data analytics to gain experience in working with data.
 - 📫 How to reach me ...alex.cheezy@gmail.com
 
